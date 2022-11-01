@@ -23,7 +23,7 @@ h6 {
     font-family: 'Saira Extra Condensed', serif;
     font-weight: 700;
     text-transform: uppercase;
-    color: #343a40;
+    color: #6b747e;
 }
 
 h1 {
@@ -50,7 +50,16 @@ a:active {
     font-weight: 500;
     font-family: 'Saira Extra Condensed', serif;
     font-size: 1.35rem;
+    color: whitesmoke;
 }
+.mb-5
+{
+    color: rgb(147, 150, 161);
+}
+.mb-0{
+    color: rgb(88, 148, 204);
+}
+
 
 /*==================================================
                   SOCIAL-ICON
@@ -200,11 +209,11 @@ a:active {
   }
 
   .bg-primary {
-      background-color: #2196f3 !important;
+      background-color: #0f5c9b8c !important;
   }
 
   .text-primary {
-      color: #2196f3 !important;
+      color: #5ea095 !important;
   }
 
 /*==================================================
@@ -400,7 +409,7 @@ a:active {
 ======================================================*/
 
 #skills {
-    background-image: url("../img/bg-stats.jpg");
+    background-image: url("bootstrap/FB_IMG_1580329313794.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -449,6 +458,8 @@ a:active {
  
 #awards {
     background: #f0f0f0;
+    
+
 }
 
 #award-box {
