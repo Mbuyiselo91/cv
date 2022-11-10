@@ -697,6 +697,10 @@ button{
                    CONTACT
 ======================================================*/
 
+.col-xs-4{
+    width: 25rem;
+}
+
 #contact{
   padding: 50px 0;
 }
