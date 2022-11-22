@@ -54,10 +54,13 @@ a:active {
 }
 .mb-5
 {
-    color: #edf7f5 !important;
+    color: #111012 !important;
+    font-size: 1.1rem;
+    text-shadow: #7e0c0c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .mb-0{
-    color: #edf7f5 !important;
+    color: #529ed4 !important;
 }
 
 
@@ -213,17 +216,18 @@ a:active {
   }
 
   .text-primary {
-      color: #edf7f5 !important;
+      color: #529ed4 !important;
   }
 
 /*==================================================
                       ABOUT
 ====================================================*/
   #about {
-      background-image: url(bootstrap/FB_IMG_1588247902292.jpg); 
+      background-image: url(bootstrap/IMG_MbuyFace.jpg); 
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
+      border-radius: 50px;
   }
 
   #about h1 {
